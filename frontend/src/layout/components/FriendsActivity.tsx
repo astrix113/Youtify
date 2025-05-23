@@ -52,7 +52,7 @@ const FriendsActivity = () => {
 									<div className='flex-1 min-w-0'>
 										<div className='flex items-center gap-2'>
 											<span className='font-medium text-sm text-white'>{user.fullName}</span>
-											{isPlaying && <Music className='size-3.5 text-emerald-400 shrink-0' />}
+											{isPlaying && <Music className='size-3.5 text-pink-600 shrink-0' />}
 										</div>
 
 										{isPlaying ? (

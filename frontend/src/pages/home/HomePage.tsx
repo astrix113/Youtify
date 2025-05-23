@@ -41,7 +41,7 @@ const HomePage = () => {
         <div className="p-4 sm:p-6">
           <h1 className="text-2xl sm:text-3xl  mb-6">
             <span className="text-pink-600 font-bold">Hi, </span>
-            <span className="text-white font-medium">{user?.fullName}</span>
+            <span className="text-white font-medium">{user?user.fullName:'Guest'}</span>
           </h1>
 
           <FeaturedSection />
