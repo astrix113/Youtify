@@ -96,7 +96,7 @@ export const PlaybackControls = () => {
 
 						<Button
 							size='icon'
-							className='bg-white hover:bg-white/80 text-black rounded-full h-8 w-8'
+							className='bg-pink-600 hover:bg-pink-500/80 rounded-full h-8 w-8'
 							onClick={togglePlay}
 							disabled={!currentSong}
 						>
