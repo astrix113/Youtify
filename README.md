@@ -69,8 +69,26 @@ youtify/
 └── README.md
 
 ````
+## 📸 Screenshots
+
+### 🏠 Home Page  
+![Home Page](./Screenshots/home_page.png)
+
+### 🎶 Admin - Songs Panel  
+![Admin Songs Page](./Screenshots/admin_page_song.png)
+
+### 💿 Admin - Albums Panel  
+![Admin Albums Page](./Screenshots/admin_page_album.png)
+
+### 📤 Upload Form  
+![Upload Form](./Screenshots/upload_form.png)
+
+### 💬 Real-Time Chat  
+![Real-Time Chat](./Screenshots/real_time_chat.png)
+
 
 ---
+
 
 ## 🧪 Getting Started
 
